@@ -1,4 +1,4 @@
-# eBook 팀프로젝트
+# eBook 팀프로젝트(5명, 조원)
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat&logo=javascript&logoColor=white" /></span>
