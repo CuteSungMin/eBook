@@ -21,24 +21,22 @@
 
 ![ebook1](https://github.com/CuteSungMin/festival/assets/144871114/6cdbac41-c912-420a-af39-a8ae812c0ced)
 ![ebook2](https://github.com/CuteSungMin/festival/assets/144871114/ed4653f1-c16b-498e-a8cd-dab5e935426b)
+![ebook3](https://github.com/CuteSungMin/festival/assets/144871114/18b4e768-e9d0-4415-972c-6d83c4c8f07e)
 <p> 🙂 Three.js로 풀 3D 공간을 만들어 봤으며 eBook 느낌으로 책장과 노트북 등을 상호작용 가능 하게 만들었습니다.</p>
-<br>
-
-
-<p> 🙂 React, Jsx로 간단한 홈페이지 정보들을 소개해 줬습니다.</p>
-<br>
-
-
-<p> 🙂 삼항연산자들을 활용하여 갤러리 사진들이 좌, 우로 끊임없이 움직이며, 마우스를 올렸을 땐 사진이 멈춥니다.</p>
-<br>
-
-
-<p> 🙂 메인 페이지가 살짝 길기 때문에 footer부분에 섹션별로 이동 가능한 이벤트를 넣어줬습니다.</p>
+<p> 🙂 포인트 조명들이 있는 링크 사진들을 누르면 서브 페이지로 이동이 가능 합니다.</p>
 <br>
 
 # 서브 페이지
 
+![ebook4](https://github.com/CuteSungMin/festival/assets/144871114/052c5b91-0d8f-4c72-a408-54cada024df9)
+<p> 🙂 Jsx로 문제들을 나눠줬으며, Json 데이터들을 불러와 각각 다른 문제들이 나올 수 있도록 만들었습니다.</p>
+<br>
 
-<p> 🙂 행사소개 서브 페이지를 제작 해봤으며, 간단하게 Jsx로 외부 링크 넘어가는 정도로만 만들었습니다.</p>
+![ebook5](https://github.com/CuteSungMin/festival/assets/144871114/a84b16e0-58a1-4f11-b339-5a539c7ef10c)
+![ebook6](https://github.com/CuteSungMin/festival/assets/144871114/199ff95c-f0b1-4224-bfcd-9e4c2f16b120)
+<p> 🙂 문제풀기 버튼을 누르면 간단한 퀴즈 모달창이 나오며 문제를 맞췄을 땐 자동으로 모달창이 꺼지면서</p>
+<p> 🙂 정답 완료로 버튼이 바뀌게 됩니다. </p>
+<p> 🙂 최대한 Json으로 데이터화 시키며 필요한 부분으로 불러올 수 있도록 만들었습니다.</p>
+<br>
 
 # 감사합니다!
